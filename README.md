@@ -1,20 +1,16 @@
 <p align="center">
 <img src="https://i.imgur.com/sOTahQf.png">
 <br>
-<a href="https://perfectdreams.net/"><img src="https://perfectdreams.net/assets/img/perfectdreams_badge.png?v2"></a>
-<a href="https://perfectdreams.net/loja"><img src="https://img.shields.io/badge/donate-perfectdreams-00CE44.svg"></a>
-<a href="https://loritta.website/donate"><img src="https://img.shields.io/badge/donate-loritta-00CE44.svg"></a>
+
 </p>
 <p align="center">
 <a href="https://perfectdreams.net/discord"><img src="https://discordapp.com/api/guilds/320248230917046282/widget.png"></a>
-<a href="https://fb.me/perfectdreamsmc"><img src="https://img.shields.io/badge/👍 Curtir-PerfectDreams 🎮-3B5998.svg?longCache=true"></a>
+<a href="https://fb.me/perfectdreamsmc"><img src="https://img.shields.io/badge/👍 Curtir-KristianRose 🎮-3B5998.svg?longCache=true"></a>
 <a href="https://twitter.com/intent/user?screen_name=KristianRose"><img src="https://img.shields.io/twitter/follow/perfectdreamsmc.svg?style=social&label=Seguir%KristianRose"></a>
 <a href="https://twitter.com/intent/user?screen_name=KristianRose"><img src="https://img.shields.io/twitter/follow/mrpowergamerbr.svg?style=social&label=Seguir%KristianRose"></a>
 <a href="https://mrpowergamerbr.com/"><img src="https://img.shields.io/badge/website-KristianRose-blue.svg"></a>
 </p>
 <p align="center">
-<a href="https://perfectdreams.net/open-source">
-<img src="https://perfectdreams.net/assets/img/perfectdreams_opensource_iniciative_rounded.png">
 </a>
 </p>
 <h1 align="center">Erelia's</h1>
